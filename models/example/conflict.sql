@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-testttttt
-=======
 newwwww
 
->>>>>>> stash
