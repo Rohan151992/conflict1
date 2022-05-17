@@ -1,2 +1,2 @@
-changes from remote conflict branch local commit
+changes from remote branch changes
 
