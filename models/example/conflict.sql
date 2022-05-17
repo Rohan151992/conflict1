@@ -1,2 +1,2 @@
-remote changes
+changes from remote conflict branch
 
